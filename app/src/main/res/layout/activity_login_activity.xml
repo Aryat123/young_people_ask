@@ -66,11 +66,10 @@
                 android:drawableLeft="@drawable/password_icon"
                 android:drawablePadding="15dp"
                 android:hint="*******"
-                android:inputType="textEmailAddress"
+                android:inputType="textPassword"
                 android:padding="10dp"
                 android:paddingLeft="60dp"
-                android:textSize="20sp"
-                />
+                android:textSize="20sp" />
 
 
             <TextView
